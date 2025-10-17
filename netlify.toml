@@ -1,0 +1,9 @@
+[[redirects]]
+from ="/*"
+to = "/index.html"
+status = 200
+
+
+[build]
+functions = "functions/"
+command = "npm install --prefix functions/sendEmail && npm run build"
