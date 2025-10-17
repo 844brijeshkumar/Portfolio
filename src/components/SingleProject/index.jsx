@@ -31,6 +31,7 @@ const projects = [
       "../flexifyy/flexify_4.jpg",
     ],
     heading2: "",
+    others: [],
     overview:
       "Your project is a movie streaming platform with a React frontend, styled with Tailwind CSS, and a Node.js backend using Express and MongoDB. It includes JWT-based authentication, routing with react-router-dom, and integrates with movie APIs like IMDb. The backend is hosted on Render, and the app supports PWA features.",
     languages: ["react", "css", "tailwind", "react query"],
