@@ -28,9 +28,9 @@ const Project = () => {
 
       heading2: "app",
       overview:
-        "Your project is a movie streaming platform with a React frontend, styled with Tailwind CSS, and a Node.js backend using Express and MongoDB. It includes JWT-based authentication, routing with react-router-dom, and integrates with movie APIs like IMDb. The backend is hosted on Render, and the app supports PWA features.",
+        "MedLock is a centralized health record platform designed specifically for government hospitals. The platform aims to digitize and streamline patient medical records, allowing authorized medical professionals to securely access, update, and manage patient histories, diagnoses, and prescriptions. By leveraging a modern tech stack, it provides a unified and reliable source of health information, ensuring better continuity of care across different hospital departments. The interface is designed to be secure, efficient, and intuitive for healthcare staff, simplifying data management and reducing the risk of medical errors.",
 
-      pic: "../flexifyy/flexify_3.jpg",
+      pic: "../medlock/medlock1.png",
       appName: "Medlock",
       link: "https://medlock.netlify.app",
     },
@@ -45,25 +45,9 @@ const Project = () => {
       link: "https://montex.netlify.app/",
       overview:
         "This is a YouTube clone using the YouTube API. The app replicates the core functionality of YouTube, allowing users to search for videos, watch content, and manage their playlists. By leveraging the YouTube API, it provides real-time access to YouTube's vast library of videos, ensuring users can find and enjoy the content they love. The interface is designed to be intuitive and user-friendly, offering a seamless viewing experience.",
-      pic: "../youtube/title.webp",
+      pic: "../montex/montex1.png",
 
       fade: "800",
-    },
-    {
-      id: "1",
-      heading1: "ART",
-      fade: "900",
-      pic: "../portfolio/title.webp",
-
-      appName: "ttarts",
-
-      overview:
-        "This is an art portfolio with a simple and effective design. It showcases a diverse collection of artworks, highlighting the artist's unique style and creativity. The intuitive layout ensures an enjoyable viewing experience, while the minimalist design keeps the focus on the art itself.",
-      page: "artportfolio",
-      heading2: "PORTFOLIO",
-
-      name: "art portfolio",
-      link: "https://ttarts.netlify.app/",
     },
   ];
 
